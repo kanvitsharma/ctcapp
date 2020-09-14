@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF2623</color>
+    <color name="colorPrimaryDark">#BF2623</color>
+    <color name="colorAccent">#F4F2EC</color>
+    <color name="startColor">#60e0eb</color>
+    <color name="endColor">#0e3746</color>
+    <color name="bGColor">#0e3746</color>
+
+
+</resources>
